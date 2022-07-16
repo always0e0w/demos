@@ -1,3 +1,8 @@
 go 1.18
 
-use ./lru
+use (
+	./kafkaTest
+	./lfu
+	./lru
+	./pagination
+)
