@@ -6,4 +6,5 @@ use (
 	./lru
 	./pagination
 	./snatchRedPacket
+	./unreadCounter
 )
