@@ -5,4 +5,5 @@ use (
 	./lfu
 	./lru
 	./pagination
+	./snatchRedPacket
 )
