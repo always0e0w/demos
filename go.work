@@ -4,6 +4,7 @@ use (
 	./kafkaTest
 	./lfu
 	./lru
+	./meetingRoomReservationSystem
 	./pagination
 	./snatchRedPacket
 	./unreadCounter
